@@ -131,3 +131,12 @@
 .icon-icon-google:before {
   content: "\e01e";
 }
+.icon-icon-circle-completed:before {
+  content: "\e01f";
+}
+.icon-icon-circle-created:before {
+  content: "\e020";
+}
+.icon-icon-circle-signed:before {
+  content: "\e021";
+}
