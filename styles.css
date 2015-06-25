@@ -140,3 +140,6 @@
 .icon-icon-circle-signed:before {
   content: "\e021";
 }
+.icon-close:before {
+  content: "\e022";
+}
